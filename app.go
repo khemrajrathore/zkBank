@@ -1,7 +1,7 @@
 package zksec_gkr 
 
 import ( 
-	"bytes"
+	"bytes" 
 	"encoding/hex"
 	"fmt"
 	"math/big"
