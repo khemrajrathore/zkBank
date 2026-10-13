@@ -1,4 +1,4 @@
-# zkBank. 
+# zkBank
 
 > [!WARNING]
 > Please do not publish a write up or solution to this challenge, as we actively use it for recruiting :) thanks!
